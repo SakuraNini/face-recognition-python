@@ -1,4 +1,5 @@
 # use the face_recognition API and OpenCV in our project.
+<html>
   <head>
     <title>Face Recognition Reference</title>
   </head>
@@ -24,4 +25,4 @@ import os
   
   
   </body>
-
+</html>
